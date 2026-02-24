@@ -15,7 +15,7 @@ The data is organized by the figures presented in the main text and supplementar
 - **`figS1/`**: All data can be obtained from the hexagon subregion data in folder `fig3/`.
 - **`figS2/`**: similar to `fig3/` data, but with a N=24 lattice. Data available from the corresponding authors upon request.
 - **`figS5/`**: All data can be obtained from the hexagon and fork RDMs in folder `fig3/`.
-- **`figS10/`**: GMN as a function of the system size for the Kagome $J_1$-$J_2$ system. The last point can be obtained from `fig5/`, at $J_2=0$. Other data are available upon request.
+- **`figS10/`**: GMN as a function of the system size for the Kagome $J_1-J_2$ system. The last point can be obtained from `fig5/`, at $J_2=0$. Other data are available upon request.
 
 ## Exploring the Data
 
