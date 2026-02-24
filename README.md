@@ -8,11 +8,14 @@ The dataset provides pre-extracted Reduced Density Matrices (RDMs) for various g
 
 The data is organized by the figures presented in the main text and supplementary materials:
 
-- **`fig3/`**: Kitaev Honeycomb model (N=32 Dyck Lattice) in a [111] field. Contains RDMs for various smaller subsystem clusters (e.g., hexagonal, fork, adjacent sites) and GMN values.
+- **`fig3/`**: Kitaev Honeycomb model (N=32 Dyck Lattice) in a [111] field. Contains RDMs for various smaller subsystem clusters (e.g., hexagonal, fork, adjacent sites) and GMN values. Panel (a) is plotted using the Hexagon subregion. Panel (b) is plotted using the fork subregion. Panel (c) is plotted using the 2- and 3-site adjacent subregion.
 - **`fig4/`**: Kitaev Honeycomb model (Thermodynamic limit) in a [111] field. Contains GMN values as a function of anisotropy in the Ising exchange interactions.
-- **`fig5/`**: Kagome $J_1$-$J_2$ system (N=36), as a function of the $J_2/J_1$ ratio. Contains RDMs for various subsystem clusters and GMN values.
-- **`fig6/`**: Kagome Chiral Spin Liquid (CSL) (N=36), as a function of the scalar spin chirality intearction. Contains RDMs for various subsystem clusters and GMN values.
-- **`figS1/` through `figS8/`**: Corresponding supplemental data for the appendix.
+- **`fig5/`**: Kagome $J_1$-$J_2$ system (N=36), as a function of the $J_2/J_1$ ratio. Contains RDMs for various subsystem clusters and GMN values. Panel (a) is plotted using the Hexagon and Bowtie subregion. Panel (b) is plotted using the linear 5-site subregion. Panel (c) is plotted using the 2- and 3- and 4-site subregions.
+- **`fig6/`**: Kagome Chiral Spin Liquid (CSL) (N=36), as a function of the scalar spin chirality intearction. Contains RDMs for various subsystem clusters and GMN values. Panel (a) is plotted using the Bowtie subregion. Panel (b) is plotted using the Hexagon subregion. Panel (c) is plotted using the Triangle subregion.
+- **`figS1/`**: All data can be obtained from the hexagon subregion data in folder `fig3/`.
+- **`figS2/`**: similar to `fig3/` data, but with a N=24 lattice. Data available from the corresponding authors upon request.
+- **`figS5/`**: All data can be obtained from the hexagon and fork RDMs in folder `fig3/`.
+- **`figS10/`**: GMN as a function of the system size for the Kagome $J_1$-$J_2$ system. The last point can be obtained from `fig5/`, at $J_2=0$. Other data are available upon request.
 
 ## Exploring the Data
 
