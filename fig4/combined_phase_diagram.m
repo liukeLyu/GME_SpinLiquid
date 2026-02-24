@@ -21,7 +21,7 @@ plot(gList, gmnList, 'LineWidth',linesize, 'Marker',marker,'MarkerSize', ...
 % annotation('textbox', [.1 .7 .2 .15], 'string', 'Non-abelian Spin Liquid','FontSize',15)
 % text(0.10,0.03,{'\textbf{Non-abelian}', '\textbf{Spin Liquid}'}, 'FontSize',15, 'Interpreter','latex')
 % text(0.60,0.03,'\textbf{$Z_2$ Spin Liquid}', 'FontSize',15, 'Interpreter','latex')
-text(0.10,0.03,'Non-abelian QSL', 'FontSize',15,'Interpreter','latex')
+text(0.10,0.03,'Gapless QSL', 'FontSize',15,'Interpreter','latex')
 text(0.60,0.03,'$Z_2$ QSL', 'FontSize',15,'Interpreter','latex')
 
 xline([0.5],'LineWidth',2,'LineStyle','--','Color',dashedcolor,'HandleVisibility','off');
